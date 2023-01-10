@@ -5,6 +5,7 @@ class Card():
 
 # class Cards():
 #     def __init__(self):
+# comment
     def shufflein(self):
         #shuffle(self.cardeck)
         deckA = self.cardeck[:26]
